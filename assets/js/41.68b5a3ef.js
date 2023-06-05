@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[41],{436:function(t,s,n){"use strict";n.r(s);var e=n(2),r=Object(e.a)({},(function(){var t=this._self._c;return t("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}},[t("p",[t("a",{attrs:{href:this.$withBase("/public/hero.png")}},[this._v("点击链接下载")])])])}),[],!1,null,null,null);s.default=r.exports}}]);
